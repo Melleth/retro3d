@@ -1,0 +1,10 @@
+[package]
+name = "retro3d"
+version = "0.1.0"
+authors = ["siemenkraayenbrink"]
+edition = "2018"
+
+[dependencies]
+quicksilver = "*"
+image = "*"
+rand = "*"
